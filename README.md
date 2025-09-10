@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on AllerLens, an Multimodal Allergy & Diet Safety Assistant for Dining Out
+- 🔭 I’m currently working on AllerLens, a Multimodal Allergy & Diet Safety Assistant for Dining Out
 -  📫 How to reach me: email: thakkatq@mail.uc.edu
 <!--
 **tanishq-thakkar/tanishq-thakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
